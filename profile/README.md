@@ -21,10 +21,9 @@ Please visit our [website](https://www.icgc.cat) to learn more about the details
  ### APITerritorial
 - [api-territorial-docs](https://github.com/OpenICGC/api-territorial-docs)
 - [extended-apiterritorial-gl-js-viewer](https://github.com/OpenICGC/extended-apiterritorial-gl-js-viewer)
-  
- <br>
- 
+ ### Apps
 - [catalunya-offline-v3](https://github.com/OpenICGC/catalunya-offline-v3)
+ ### Plugins
 - [QgisPlugin](https://github.com/OpenICGC/QgisPlugin)
 
 ## Contributions 🤝
