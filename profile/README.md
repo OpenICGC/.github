@@ -8,7 +8,9 @@
 
 All repositories under `ICGC` are being developed and maintained to support geoinformation and cartography initiatives in Catalonia by the Institut Cartogràfic i Geològic de Catalunya (ICGC).
 
-Please visit our [website](https://www.icgc.cat) to learn more about the details of our activities.
+All the produced resources ara accessible on our [Open Resources ICGC website](https://openicgc.github.io/).
+
+Please visit the [ICGC website](https://www.icgc.cat) to learn more about the details of our activities.
 
  Here you will find a series of repositories containing data, tools, and resources related to cartographic products from ICGC:
 
